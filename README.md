@@ -1,4 +1,4 @@
-# alx-pre_course (updated)
-I'm now a ALX Student, this is my first repository as a full-stack engineer and it's updated by me
+# zero day
+This is my first repository as a full-stack engineer
 
 
